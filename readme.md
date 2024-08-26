@@ -24,8 +24,7 @@ O projeto deve ser feito utilizando as boas práticas de prompt engineer.
 - [📅 Dias Disponíveis para Treino](#-dias-disponíveis-para-treino)
 - [🏋️ Tipos de Exercícios](#️-tipos-de-exercícios)
 - [🛠️ Regras de negócio](#️-regras-de-negócio)
-- [📖 Material de Apoio](#-material-de-apoio)
-- [🎯 Prompt de Resposta Proposto](#-prompt-de-resposta-proposto)
+- [🎯 Objetivo do Treino](#-objetivo-do-treino)
 
 ---
 
@@ -102,22 +101,24 @@ A terceira regra envolve a escolha do tipo de exercício preferido. Aqui estão 
 
 ---
 
+## 🎯 Objetivo do Treino
+
+A quarta regra envolve a escolha do tipo de objetivo desejado. Aqui estão algumas categorias com exemplos:
+
+4. **Objetivo Principal**:
+   - Ganho de Massa Muscular
+   - Perda de Gordura
+   - Melhora da Resistência
+   - Aumento da Flexibilidade
+   - Manutenção de Peso
+   - Preparação para Competição
+   - Recuperação de Lesão
+
+---
+
 ## 🛠️ Regras de negócio
 
 1. **Identifique seu biotipo corporal** consultando a seção de biotipos.
 2. **Determine quantos dias por semana você pode treinar** e escolha o tipo de treino mais adequado.
 3. **Selecione o tipo de exercício** que prefere realizar e que se encaixa melhor nos seus objetivos.
-4. Use o prompt do assistente para gerar um plano de treino personalizado.
-
----
-
-## 📖 Material de Apoio
-
-Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor o projeto e as práticas de prompt engineering:
-
-- [Fundamentos de Engenharia de prompt](https://elidianaandrade.gitbook.io/fundamentos-de-engenharia-de-prompts-com-claude-3)
-- [Boas práticas de prompt](https://aline-antunes.gitbook.io/otimize-seus-prompts-e-aprenda-mais-usando-ias-1)
-
----
-
-## 🎯 Prompt de Resposta Proposto
+4. **Selecione o objetivo desejado** qual objetivos para a prática dos exercícios.
